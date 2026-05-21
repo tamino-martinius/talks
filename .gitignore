@@ -1,0 +1,11 @@
+node_modules
+dist
+*/dist
+.DS_Store
+*.log
+
+# Old per-talk lockfiles superseded by root pnpm-lock.yaml
+package-lock.json
+*/package-lock.json
+yarn.lock
+*/yarn.lock

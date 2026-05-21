@@ -1,0 +1,18 @@
+packages:
+  - "2019-recap"
+  - "2020-recap"
+  - "2021-recap"
+  - "api"
+  - "api-workshop-1"
+  - "cdk"
+  - "graphql"
+  - "never-change-a-running-system"
+  - "new-js-features-2018"
+  - "new-js-features-2019"
+  - "new-js-features-2020"
+  - "sam"
+  - "sql-query-performance"
+  - "typescript"
+
+catalog:
+  lets-talk-about: ^0.5.3
