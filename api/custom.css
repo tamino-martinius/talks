@@ -1,0 +1,19 @@
+.template-three-column {
+  display: flex;
+  flex-direction: row;
+  gap: calc(2 * var(--vw));
+  width: 100%;
+  padding: 0 calc(2 * var(--vw));
+  box-sizing: border-box;
+  align-items: center;
+}
+
+.template-three-column .template-col {
+  flex: 1;
+  min-width: 0;
+}
+
+.template-three-column .template-col img {
+  max-width: 100%;
+  height: auto;
+}
