@@ -1,19 +1,17 @@
 {
-  "name": "lets-talk-about--sam",
+  "name": "sam",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Example presentation built with lets-talk-about.",
+  "description": "Talk: sam",
   "author": "Tamino Martinius",
-  "homepage": "https://github.com/tamino-martinius/lets-talk-about--example",
+  "homepage": "https://lets-talk-about.tamino.dev/sam/",
   "license": "MIT",
   "scripts": {
     "dev": "lets-talk-about dev",
-    "build": "lets-talk-about build",
-    "predeploy": "npm run build",
-    "deploy": "lets-talk-about deploy"
+    "build": "lets-talk-about build"
   },
   "dependencies": {
-    "lets-talk-about": "^0.5.3"
+    "lets-talk-about": "catalog:"
   }
 }
