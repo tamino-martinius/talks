@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Talk: new-js-features-2018",
   "author": "Tamino Martinius",
-  "homepage": "https://lets-talk-about.tamino.dev/new-js-features-2018/",
+  "homepage": "https://talks.tamino.dev/new-js-features-2018/",
   "license": "MIT",
   "scripts": {
     "dev": "lets-talk-about dev",

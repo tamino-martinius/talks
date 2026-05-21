@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Talk: typescript",
   "author": "Tamino Martinius",
-  "homepage": "https://lets-talk-about.tamino.dev/typescript/",
+  "homepage": "https://talks.tamino.dev/typescript/",
   "license": "MIT",
   "scripts": {
     "dev": "lets-talk-about dev",

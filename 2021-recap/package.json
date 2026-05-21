@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Talk: 2021-recap",
   "author": "Tamino Martinius",
-  "homepage": "https://lets-talk-about.tamino.dev/2021-recap/",
+  "homepage": "https://talks.tamino.dev/2021-recap/",
   "license": "MIT",
   "scripts": {
     "dev": "lets-talk-about dev",

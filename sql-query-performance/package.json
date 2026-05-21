@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Talk: sql-query-performance",
   "author": "Tamino Martinius",
-  "homepage": "https://lets-talk-about.tamino.dev/sql-query-performance/",
+  "homepage": "https://talks.tamino.dev/sql-query-performance/",
   "license": "MIT",
   "scripts": {
     "dev": "lets-talk-about dev",

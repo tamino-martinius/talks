@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Talk: graphql",
   "author": "Tamino Martinius",
-  "homepage": "https://lets-talk-about.tamino.dev/graphql/",
+  "homepage": "https://talks.tamino.dev/graphql/",
   "license": "MIT",
   "scripts": {
     "dev": "lets-talk-about dev",

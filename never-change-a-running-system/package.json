@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Talk: never-change-a-running-system",
   "author": "Tamino Martinius",
-  "homepage": "https://lets-talk-about.tamino.dev/never-change-a-running-system/",
+  "homepage": "https://talks.tamino.dev/never-change-a-running-system/",
   "license": "MIT",
   "scripts": {
     "dev": "lets-talk-about dev",

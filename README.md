@@ -1,8 +1,8 @@
 # talks
 
-Monorepo of presentations by Tamino Martinius, built with [`lets-talk-about`](https://github.com/tamino-martinius/lets-talk-about) and deployed to <https://lets-talk-about.tamino.dev/>.
+Monorepo of presentations by Tamino Martinius, built with [`lets-talk-about`](https://github.com/tamino-martinius/lets-talk-about) and deployed to <https://talks.tamino.dev/>.
 
-Each subdirectory is one talk and is exposed at `https://lets-talk-about.tamino.dev/<talk-name>/`.
+Each subdirectory is one talk and is exposed at `https://talks.tamino.dev/<talk-name>/`.
 
 ## Local development
 

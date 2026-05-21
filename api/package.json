@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Talk: api",
   "author": "Tamino Martinius",
-  "homepage": "https://lets-talk-about.tamino.dev/api/",
+  "homepage": "https://talks.tamino.dev/api/",
   "license": "MIT",
   "scripts": {
     "dev": "lets-talk-about dev",

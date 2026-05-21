@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Talk: cdk",
   "author": "Tamino Martinius",
-  "homepage": "https://lets-talk-about.tamino.dev/cdk/",
+  "homepage": "https://talks.tamino.dev/cdk/",
   "license": "MIT",
   "scripts": {
     "dev": "lets-talk-about dev",
